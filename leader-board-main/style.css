@@ -1,0 +1,42 @@
+
+body{
+    background-color: #F3F1FF;
+}
+@media (min-width: 992px){
+    .navbar-brand{
+        padding-left:285px;
+    }
+    .navbar-collapse{
+        padding-right:285px;
+    }
+}
+main{
+    max-width: 870px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+section{
+    padding: 40px;
+    font-style: normal;
+}
+.navbar img{
+    width: 45px;
+}
+.player img{
+    width: 52px;
+}
+.con-2 img{
+    width: 158px;
+}
+
+footer{
+    background-color: #F3F1FF;
+    max-width: 870px;
+    background: #FFFFFF;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.clock{
+    margin-left:8px;
+    background-color:  #FFE4E8;
+}
